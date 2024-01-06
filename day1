@@ -1,1 +1,6 @@
-1
+git init --> to intilized the project of working directory
+git status --> history of Reporatory
+git add * / git add <File name> --> to adding the working dir to staging repo
+git restore --staged <file Name> --> to edit files into working directory
+git commit -m "Basic git commands"  --> to commit into repo
+git push orgin main --> to push the server
