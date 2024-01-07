@@ -5,3 +5,7 @@ git restore --staged <file Name> --> to edit files into working directory
 git commit -m "Basic git commands"  --> to commit into repo
 git push orgin main --> to push the server
 git clone <url> dowload the resporartory server to local
+
+Branches
+git branch -a --> Gives all the branches available
+git branch <branchname>  ---> Creates the branch locally
